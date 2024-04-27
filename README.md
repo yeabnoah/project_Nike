@@ -1,3 +1,6 @@
+<img src="https://i.ibb.co/LvJWTLN/image.png" alt="image" border="0">
+
+
 # Nike Landing Page React Clone
 
 This project is a React.js clone of the landing page of the Nike website, featuring a stunning user interface design. It aims to replicate the landing page's functionality and aesthetics while utilizing modern web development technologies.
